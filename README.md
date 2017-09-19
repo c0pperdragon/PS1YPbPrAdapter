@@ -52,4 +52,5 @@ The only bad thing is that the image seems to have a slight flicker of the
 luminance when the game scrolls and the screen is mainly half-bright. I have
 not yet figured out if this is a problem of the Lum output of the PS1 or caused by 
 my circuit. Nevertheless I am very happy with the image quality now.
+Have a look at the gallery for a test image.
 
